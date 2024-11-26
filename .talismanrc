@@ -1,0 +1,28 @@
+fileignoreconfig:
+- filename: .env.example
+  checksum: aad1f91bb5a66630e05d97c2a50a360192d7b0bb796bd7717e9c6a942e4fac6d
+- filename: pnpm-lock.yaml
+  checksum: 9f03affcd9b202741cd6959ca67882417649c7ea8ebfd5cfe8c3cb2c9a8e0e62
+- filename: app/ui/invoices/breadcrumbs.tsx
+  checksum: 515fc03253fafc7c561c22dfe43330fd4536fc65af07091e30a35a446b24866b
+- filename: app/lib/placeholder-data.ts
+  checksum: bdcee8933d2d598c7d55f20444c392b8a0c801d8905c1f5b69a056a762b670bd
+- filename: app/ui/dashboard/latest-invoices.tsx
+  checksum: f92db6c631b877137114277eb77d64ab863bc257052b51c3cd410603fcd8abd7
+- filename: app/ui/dashboard/nav-links.tsx
+  checksum: c9ed3ea735eea7e0f928da3e045bc36f5ed0d0ff3358a510717914e2ab1ad3d2
+- filename: app/ui/dashboard/revenue-chart.tsx
+  checksum: 97879899731b1802e63fb303ae9b0b9888658e577d16c1b010e318fbc7936304
+- filename: app/seed/route.ts
+  checksum: 65775619d1e9f175f09f46b36703d218fde60e361ba7f45a395bcd187ba02273
+- filename: app/ui/customers/table.tsx
+  checksum: e4cb2c6b932872d89b87f7949179fdb17db829dde0844aa6bdefbce3270e9c08
+- filename: app/ui/invoices/create-form.tsx
+  checksum: fc6f26a1109394042afe9d86bacf79d025b54eac30ab7b5f286306c5fbb43405
+- filename: app/ui/invoices/table.tsx
+  checksum: 2d4644cc849064f1bb1974131e5c01740d9baea9f89d8641656ea7a3ee3427fe
+- filename: app/ui/invoices/edit-form.tsx
+  checksum: d013118d26464a407e95c65d50d4419736cee404d9f6f18da7592b1aaea1c42d
+- filename: app/ui/login-form.tsx
+  checksum: 7179a89b5287774522dd70809f2875fcd7332a3e8ffb42deb5b4505f41aeab67
+version: ""
