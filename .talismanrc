@@ -2,7 +2,7 @@ fileignoreconfig:
 - filename: .env.example
   checksum: aad1f91bb5a66630e05d97c2a50a360192d7b0bb796bd7717e9c6a942e4fac6d
 - filename: pnpm-lock.yaml
-  checksum: acf735934b521c34fde3d9c38fc6e672c0035daa0353b0001eab31bea9fa5636
+  checksum: 6ee55c370912d00cd8b05a0ad6395fdb11d9ae6608783ee6753dade6866e89ac
 - filename: app/ui/invoices/breadcrumbs.tsx
   checksum: 515fc03253fafc7c561c22dfe43330fd4536fc65af07091e30a35a446b24866b
 - filename: app/lib/placeholder-data.ts
